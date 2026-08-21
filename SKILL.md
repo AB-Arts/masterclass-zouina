@@ -99,9 +99,9 @@ Variante pour un **sujet « partie 2 »** (même esprit, mais c'est pour la suit
 
 - **FR** : « On l'a juste survolé ensemble ; le détail arrive dans la suite du parcours :
   https://ab-arts.be/academy »
-- **EN** : « We only touched on this one together — the full detail comes in the next part of
+- **EN** : « We only touched on this one together; the full detail comes in the next part of
   the programme: https://ab-arts.be/academy »
-- **NL** : « Dit hebben we samen maar even aangeraakt — de details komen in het volgende deel
+- **NL** : « Dit hebben we samen maar even aangeraakt; de details komen in het volgende deel
   van het traject: https://ab-arts.be/academy »
 
 ## 4. Un souci ou une question ? Les contacts

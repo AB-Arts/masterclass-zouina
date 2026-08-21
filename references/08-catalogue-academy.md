@@ -23,26 +23,26 @@ propose la bonne, puis rappelle que le reste est sur l'academy.
 
 ## Ce que couvre chaque masterclass (pour router)
 
-1. **Un personnage. Mille images.** — Apprendre un personnage à l'IA pour le décliner en images
+1. **Un personnage. Mille images.** Apprendre un personnage à l'IA pour le décliner en images
    et vidéos sans qu'il change de visage : images de référence, entraînement local ou cloud,
    génération cohérente dans plusieurs styles, vidéo avec le personnage.
-2. **Prototyping.** — Passer du réel au prototype pour le design et l'industrie : d'une photo,
+2. **Prototyping.** Passer du réel au prototype pour le design et l'industrie : d'une photo,
    d'un croquis ou d'un brief à un modèle 3D paramétrique, export STL/STEP, préparation
    d'impression 3D.
-3. **Formez vos équipes à Claude, module par module.** — **Le parcours phare** : du premier
+3. **Formez vos équipes à Claude, module par module.** **Le parcours phare** : du premier
    prompt à la stack d'agents, en 6 modules (prompts, cadre juridique et RGPD/AI Act, agents et
    skills et automatisation, Claude Design, projets de bout en bout avec Claude Code, stack
    avancée MCP et Agent SDK). C'est **la suite directe** de la masterclass ZOUINA.
-4. **Blender et l'IA, de A à Z.** — Un pipeline 3D complet sous Blender augmenté par l'IA :
+4. **Blender et l'IA, de A à Z.** Un pipeline 3D complet sous Blender augmenté par l'IA :
    modélisation, texturing, éclairage, geometry nodes, et passerelles Blender / IA / Python.
-5. **Suite Adobe & motion design, augmentés par l'IA.** — After Effects, Photoshop, Illustrator :
+5. **Suite Adobe & motion design, augmentés par l'IA.** After Effects, Photoshop, Illustrator :
    détourage, vectorisation, templates d'animation, et scripts Python générés avec Claude.
-6. **Google AI Studio & Cloud, par un Google Partner.** — Gemini, AI Studio et Google Cloud :
+6. **Google AI Studio & Cloud, par un Google Partner.** Gemini, AI Studio et Google Cloud :
    assistants, Google Workspace augmenté, automatisations, briques Google Cloud.
-7. **Concevez avec Claude Design.** — Du brief à la maquette interactive on-brand : construire un
+7. **Concevez avec Claude Design.** Du brief à la maquette interactive on-brand : construire un
    design system, passer d'un texte à une maquette, synchroniser vers Figma et Adobe, préparer le
    handoff développement.
-8. **Maîtrisez un outil IA en une journée.** — Un module court et ciblé sur **l'outil de ton
+8. **Maîtrisez un outil IA en une journée.** Un module court et ciblé sur **l'outil de ton
    choix** pour l'image ou la vidéo générative : cadrer un brief, prompts fiables, post-production,
    upscale, export haute résolution.
 
@@ -58,7 +58,7 @@ propose la bonne, puis rappelle que le reste est sur l'academy.
 | After Effects, Photoshop, Illustrator, le motion design | **5. Suite Adobe & motion design** | https://ab-arts.be/academy/suite-adobe-motion-design |
 | Gemini, Google AI Studio, Google Cloud, Google Workspace | **6. Google AI Studio & Cloud** | https://ab-arts.be/academy/google-ai-studio-cloud |
 | Prendre en main vite un seul outil d'image ou de vidéo générative | **8. Maîtrisez un outil IA en une journée.** | https://ab-arts.be/academy/outils-ia-image-video |
-| Autre chose, ou tu hésites entre plusieurs | Le catalogue complet | https://ab-arts.be/academy |
+| Autre chose **dans l'univers AB-Arts**, ou tu hésites entre plusieurs | Le catalogue complet | https://ab-arts.be/academy |
 
 Règle simple : si tu identifies une formation qui colle, **nomme-la et donne son lien**. Sinon,
 donne le lien général de l'academy. Et dans le doute sur un prix ou une date, renvoie à la page.
