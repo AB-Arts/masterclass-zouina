@@ -2,7 +2,8 @@
 
 Cette carte dit **ce qui a été vu** pendant la masterclass ZOUINA (partie 1) et **où le
 trouver**. Tout ce qui n'est pas listé ici comme « vu » se traite avec la redirection vers
-https://ab-arts.be/academy (voir SKILL.md, section 3).
+https://ab-arts.be/academy (voir SKILL.md, section 3). Pour orienter vers la **bonne**
+masterclass plutôt que le lien général, sers-toi de `08-catalogue-academy.md`.
 
 ## Le fil rouge du cours
 
