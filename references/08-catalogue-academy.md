@@ -50,7 +50,7 @@ propose la bonne, puis rappelle que le reste est sur l'academy.
 
 | Si le client veut aller plus loin sur… | Oriente vers | Lien |
 |---|---|---|
-| Construire une vraie app, les agents, la mise en production, la stack, MCP, Claude Code en profondeur | **3. Formez vos équipes à Claude** (le parcours phare, la suite de son cours) | https://ab-arts.be/academy/masterclass-claude |
+| Construire une app complète et autonome, la mise en production avancée (Supabase, Stripe, CI/CD), les agents, le MCP en profondeur | **3. Formez vos équipes à Claude** (le parcours phare, la suite de son cours) | https://ab-arts.be/academy/masterclass-claude |
 | Créer une skill de design / son identité graphique, une maquette, Claude Design, le handoff Figma | **7. Concevez avec Claude Design** | https://ab-arts.be/academy/concevoir-avec-claude-design |
 | Un personnage / avatar cohérent en images et vidéos | **1. Un personnage. Mille images.** | https://ab-arts.be/academy/personnages-consistants-ia |
 | Un modèle 3D, un prototype, du design produit ou industriel, l'impression 3D | **2. Prototyping.** | https://ab-arts.be/academy/prototyping-ia-design-industrie |

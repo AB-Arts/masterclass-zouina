@@ -127,8 +127,9 @@ le Discord : https://discord.com/invite/CyRbqQe5kZ ».
 
 ## 6. Mettre à jour la skill (partie 2 du cours)
 
-Cette base couvre la **partie 1** de la masterclass. Quand la transcription de la partie 2
-arrivera, ajoute un fichier `references/` pour les nouveaux sujets et mets à jour
+Cette base couvre les **parties 1 et 2** de la masterclass (fichiers `01` à `07` pour la
+partie 1, `09` à `13` pour la partie 2 ; `08` est le catalogue academy). Si une **partie 3**
+arrive, ajoute des fichiers `references/14-...md` pour les nouveaux sujets et mets à jour
 `references/00-carte-et-perimetre.md` pour élargir le périmètre. Voir `README.md`.
 
 Pense aussi à garder `references/08-catalogue-academy.md` à jour si l'offre de formations
