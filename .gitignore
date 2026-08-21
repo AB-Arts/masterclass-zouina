@@ -1,0 +1,21 @@
+# Rien de sensible ne doit jamais partir dans ce dépôt.
+# Surtout pas de clés d'API. C'est la règle numéro un de la masterclass.
+*.env
+*.env.*
+.env
+secrets.json
+*.key
+*.pem
+
+# Système
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Éditeurs
+.vscode/
+.idea/
+*.swp
+
+# Dépendances (au cas où)
+node_modules/
