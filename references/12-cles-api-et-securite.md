@@ -17,7 +17,7 @@ D'ailleurs, Claude t'empêche de coller une clé directement dans le chat.
 
 Dans les outils de développement et d'hébergement (ton projet, Vercel, Supabase, les réglages sécurisés de GitHub...), il existe un endroit
 prévu pour les **variables d'environnement**. Ce sont les informations sensibles (comme tes clés d'API) qui ne doivent jamais être partagées. C'est la **zone de haute sécurité** : le
-programme va y chercher ses clés de manière **chiffrée** (codée, illisible pour quelqu'un d'autre), sans jamais les diffuser au public.
+programme va y chercher ses clés sans qu'elles apparaissent dans le code, ni dans Git, ni dans le chat.
 
 Concrètement, sur ton ordinateur, ça prend la forme d'un **fichier local** (souvent nommé
 `.env`) rangé dans le dossier de ta skill ou de ton app. Ce fichier est mis en **`.gitignore`**
