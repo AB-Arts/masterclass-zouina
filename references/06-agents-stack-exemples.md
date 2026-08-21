@@ -52,7 +52,7 @@ ce qu'on peut construire, ils ne sont pas un tutoriel.
   automatisées (le vêtement choisi, le logo du client, les mises en situation, les prix, les
   conditions, les chartes de marquage), à partir de quelques inputs.
 - **AB Studio** : une interface pour créer des images et des vidéos via des clés d'API
-  (derniers modèles), en chat ou avec un éditeur à nodes. Galerie, historique, upscale,
+  (derniers modèles), en chat ou avec un éditeur à nodes (des blocs reliés entre eux). Galerie, historique, upscale (agrandissement),
   conversion en SVG (utile pour les logos). Détail commercial : la formation AB-Arts inclut
   des tokens gratuits pour générer images et vidéos depuis le système.
 - **ab-arts.be** : le site d'AB-Arts, en trois langues, sans base de données (tout est

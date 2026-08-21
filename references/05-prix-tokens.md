@@ -27,10 +27,13 @@ Dans le desktop de Claude, pour chaque token dépensé, **Claude t'en offre quat
 tu fais exactement la même action via l'**API** (au lieu du desktop), tu paies **cinq fois**
 le prix.
 
-- Sur l'abonnement à 90 €, tu paies environ **1/5** du prix du token.
-- Sur l'abonnement à 200 €, tu paies environ **1/20** du prix du token.
+- Sur l'abonnement à 90 € (Max 5x), tu paies environ **1/5** du prix du token.
+- Sur l'abonnement à 200 € (Max 20x), tu paies environ **1/20** du prix du token.
 
-C'est voulu : l'abonnement te pousse à **créer** (générous dans le desktop, dans Claude Chat,
+Autrement dit : plus ton plan est costaud, plus le desktop absorbe de tokens pour toi ;
+l'API, elle, reste au **plein tarif**.
+
+C'est voulu : l'abonnement te pousse à **créer** (généreux dans le desktop, dans Claude Chat,
 dans Claude Code). Mais dès que tu **automatises** et que ça passe par l'API, hors de Claude,
 tu paies **plein pot**. Ces sociétés savent très bien que si tu crées à moindre frais, tu
 finiras par vouloir sortir tes outils pour ne plus payer l'abonnement. C'est tout le fil

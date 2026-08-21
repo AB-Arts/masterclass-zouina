@@ -20,7 +20,7 @@ magiques. Ce qui compte, c'est un contexte clair, construit en clusters.
 ## L'IA pose maintenant des questions elle-même
 
 Avant, l'IA ne faisait que répondre. Maintenant, quand elle n'est pas sûre, elle te pose des
-questions. C'est une surcouche récente. Par exemple, dans Cloud Design, si tu dis « fais-moi
+questions. C'est une surcouche récente. Par exemple, dans Claude Design, si tu dis « fais-moi
 un design pour mon site de menuiserie », le système te pose une dizaine de questions : tu
 veux sombre ou clair ? un one-pager ou des sections ? une page article ? Il commence à
 affiner tout seul.

@@ -29,7 +29,7 @@ de la valeur promise. C'est le terrain où l'IA apporte le plus, parce que la ma
 première est massive et verbale (avis, enquêtes, entretiens, messages).
 
 La boucle : écouter (rassembler tout ce que les clients disent déjà) → extraire (classer
-chaque verbatim par thème et par émotion) → mesurer (l'écart entre valeur promise et valeur
+chaque verbatim (chaque avis client, mot pour mot) par thème et par émotion) → mesurer (l'écart entre valeur promise et valeur
 perçue, chiffré) → décider (ajuster l'offre et le discours), puis on réécoute la vague
 suivante.
 
@@ -46,5 +46,5 @@ esthétiques, avec des étapes séquentielles, des quality checks et une consoli
 est exactement une application de cette logique. Le rapport final validé sert de « point
 zéro » pour créer une skill réutilisable sur d'autres clients (voir `03-skills-et-memoire.md`).
 
-Pour aller plus loin (transformer ce framework en outil commercialisable, le mettre sur un
+Pour aller plus loin (transformer cette méthode, ce « framework », en outil commercialisable, le mettre sur un
 site en version allégée), on dépasse la partie 1 : redirige vers l'academy.

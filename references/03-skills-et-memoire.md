@@ -40,7 +40,7 @@ C'est le schéma clé de cette partie. Il montre pourquoi une skill « rapporte 
 - **Ensuite**, tu bascules ton temps en skills : tu passes de moins en moins de temps, parce
   que ta skill se termine et s'affine.
 - **À la fin**, tu prends encore un peu de temps pour en faire une app ou une automatisation,
-  puis ça tourne sur tes serveurs et tu n'as plus qu'à donner tes cinq ou six inputs.
+  puis ça tourne sur tes serveurs et tu n'as plus qu'à donner tes cinq ou six inputs (les infos que tu fournis).
 
 Ce que tu faisais en une demi-journée, tu finis par le taper, et c'est fait.
 
@@ -51,7 +51,7 @@ esthétiques, et il veut en extraire un rapport. Sa méthode, très fragmentée 
 
 - Il a d'abord fait « mapper » le projet : quelles étapes pour arriver à un rapport de ce
   type ?
-- Il a défini des **quality checks** intermédiaires et des **prompts intermédiaires** : quand
+- Il a défini des **quality checks** (des points de contrôle qualité) intermédiaires et des **prompts intermédiaires** : quand
   une étape est validée, on passe à la suivante.
 - Chaque étape produit des fichiers MD, puis on consolide tout dans un rapport final.
 - Détail utile : dans une interview, pour le rapport, on ne garde que le contenu de la
@@ -75,7 +75,7 @@ Point crucial : ne pas perdre la mémoire de ce que tu fais.
   résultat, mais tu perds le déroulé et le sens.
 - Claude **supprime tout seul la mémoire au bout de 30 jours** (la mémoire des 30 jours
   d'avant). Selon le plan, l'historique peut remonter plus loin, mais ne compte pas dessus.
-- Donc tu dois **backuper**. À la fin d'un chat, tu demandes un **handover** : un fichier qui
+- Donc tu dois **faire une sauvegarde** (un backup). À la fin d'un chat, tu demandes un **handover** : un fichier qui
   récapitule tout ce qui a été bon dans le chat, le contexte et l'output final, rangé dans
   ton dossier. Dans un même projet, Claude peut faire un handover de plusieurs chats.
 

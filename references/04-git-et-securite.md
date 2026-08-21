@@ -23,8 +23,8 @@ Le vocabulaire :
 - Le gros avantage : tu peux **revenir en arrière** (rollback). Si une version de skill a
   merdé, tu dis à Claude « reprends ce commit-là » et il remet cette version sur ton
   ordinateur, **sans supprimer les autres**.
-- Les **branches** (branch) et les **forks** : tu peux repartir d'une version pour faire
-  autre chose dans une branche séparée (par exemple une branche « Zoina », ou une branche
+- Les **branches** (branch) et les **forks** (une copie complète d'un projet pour repartir de zéro à côté) : tu peux repartir d'une version pour faire
+  autre chose dans une branche séparée (par exemple une branche « Zouina », ou une branche
   « Gemini » où Gemini retravaille ta skill à sa façon), puis décider de la fusionner
   (merge) avec la branche principale ou de la garder à part.
 
@@ -43,7 +43,7 @@ dossier »). Si tu laisses Claude créer le repo tout seul, ça devient vite le 
 
 Quand tu dis à Claude « va dans ce Git », il répond souvent « je ne sais pas y aller,
 veux-tu que je configure un CLI ? ». Tu dis oui, il ouvre la fenêtre GitHub où tu
-t'authentifies (connexion recommandée en SSO Google), et c'est fait. Ensuite, dis-lui de
+t'authentifies (connexion recommandée en SSO Google, la connexion unique via ton compte Google), et c'est fait. Ensuite, dis-lui de
 faire un commit à chaque modification (« yes, and every time »).
 
 Une fois connecté, tout devient limpide pour Claude, même si ça paraît touffu pour un
@@ -72,16 +72,16 @@ Le fichier **`.gitignore`** dit ce qui **ne doit pas** partir dans Git. Tu peux 
 ton dossier de travail, un fichier avec tes clés d'API : si tu l'inscris dans le
 `.gitignore`, il ne sera **pas** envoyé dans Git.
 
-Et Claude le sait : il peut lire et écrire des clés d'API en local, mais tout ce qu'il lit
-en local dans un fichier, il ne l'intègre **pas** à sa mémoire publique et ne l'envoie pas
-dans le cloud. Il le garde en local, puis il l'oublie. Tes clés ne partent donc ni sur le
-cloud, ni dans Git.
+Claude peut lire une clé rangée dans un fichier local pour s'en **servir** (par exemple
+appeler Gemini pour toi), mais grâce au `.gitignore` ce fichier ne part **pas** dans Git.
+Tes clés restent sur ta machine. La règle plus haut reste absolue : une clé ne se colle
+**jamais** dans le chat, ni dans un repo, ni dans le code.
 
 ## Pourquoi c'est si important (les dégâts d'une fuite)
 
 - Une clé d'API volée donne accès au **produit** que tu utilises, pas à ta machine. Exemple :
   une clé de génération d'images volée peut te faire cramer 10 000 € de tokens en une journée.
-- Une clé ClickUp volée : quelqu'un peut mettre le bazar, tout effacer ou injecter des données.
+- Une clé ClickUp volée (ClickUp est un outil de gestion de tâches) : quelqu'un peut mettre le bazar, tout effacer ou injecter des données.
 - Protection simple : mettre un **plafond de dépense** chez le fournisseur (par exemple 40 €
   par mois chez Google). Même si une clé fuit, la personne ne pourra pas dépenser plus que ce
   plafond.

@@ -100,7 +100,7 @@ précédente :
    la suite. Quand c'est bon, tu fais un **handover** : l'IA crée un fichier MD (un fichier
    markdown, c'est un texte structuré) avec le copy validé.
 2. **La recherche graphique / le design.** Tu prends un expert en design, tu utilises le copy
-   comme base. Handover : ça crée des fichiers HTML, un fichier zip avec toute ta charte
+   comme base. Handover : ça crée des fichiers HTML (le langage des pages web), un fichier zip avec toute ta charte
    graphique, que tu ranges dans ton dossier.
 3. **Les fonctionnalités.** Là seulement tu parles de ce que le projet doit faire, pourquoi,
    à quoi ça sert. Handover : un MD des fonctionnalités.
@@ -110,6 +110,6 @@ Ces fichiers MD, tu peux les ouvrir et les relire : ce sont de vrais petits livr
 peux corriger. Une fois que tu as tout ça, tu entres dans le développement, et tu as toutes
 tes chances de réussir en quelques prompts.
 
-**Note de vocabulaire :** dans Cloud Design, le vrai terme est « handoff ». Si tu dis
+**Note de vocabulaire :** dans Claude Design, le vrai terme est « handoff ». Si tu dis
 « handover », le système comprend quand même que tu veux un handoff. Retiens l'idée : c'est
 le passage de relais propre, qui fige le travail d'une étape dans un fichier réutilisable.
